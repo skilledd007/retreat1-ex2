@@ -10,8 +10,9 @@ This repository includes information about our team. To view information on a te
 
 Make sure to include a quick description about your team.
 
-## Tsenguun
+## Team Members
 
 Links to each team member's bio page. Add a link for each team member.
 
 [Risat](/risat.md)
+[Tsenguun](/tsenguun.md)
